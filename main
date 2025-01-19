@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мероприятие: Концерт</title>
+</head>
+<body>
+    <h1>Концерт на Красной площади</h1>
+    <p>Дата: 25 февраля 2025 года</p>
+    <p>Место: Красная площадь, Москва</p>
+    <p>Цена билета: 1500 руб.</p>
+    <p>Доступно билетов: 30</p>
+    <a href="https://t.me/Pyshkin1151Bot?start=концерт">Купить билет</a>
+</body>
+</html>
